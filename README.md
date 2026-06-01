@@ -1,11 +1,23 @@
-<div align="center">
+# Sesotho Learning Website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A web-based platform for learning the Sesotho language.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- Interactive lessons
+- Vocabulary building
+- Grammar guides
+- Practice exercises
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Getting Started
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Start learning!
 
-</div>
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## License
+MIT
