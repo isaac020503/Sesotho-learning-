@@ -1,0 +1,6 @@
+{
+  "name": "Sesotho Language Marketplace",
+  "description": "A comprehensive marketplace and learning platform for Sesotho, connecting students with native tutors, featuring structured resources, pronunciation playbacks, quizzes, and a real-time Gemini language partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

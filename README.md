@@ -1,23 +1,20 @@
-# Sesotho Learning Website
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-A web-based platform for learning the Sesotho language.
+# Run and deploy your AI Studio app
 
-## Features
-- Interactive lessons
-- Vocabulary building
-- Grammar guides
-- Practice exercises
+This contains everything you need to run your app locally.
 
-## Getting Started
+View your app in AI Studio: https://ai.studio/apps/15dd551d-5718-4e9b-be90-e6c394e9b295
 
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Start learning!
+## Run Locally
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+**Prerequisites:**  Node.js
 
-## License
-MIT
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
